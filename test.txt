@@ -1,5 +1,2 @@
 Hello Git!
-更新1
-gxingxi2
-更新3
-
+测试giteessh上传
